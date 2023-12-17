@@ -3,7 +3,9 @@
 
 ---
 **Game Concept**
+
 Katamari Damacy Reroll
+
 ![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/c2ae434c-10c2-4adb-9af5-2240bf7b9263)
 
 ---
@@ -12,14 +14,21 @@ Katamari Damacy Reroll
 - DataBase System (Create and show player scores)
 
 ---
-**Screen shots**
+**Screenshots**
+
 ![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/c35361d4-8148-44f7-a0e8-db7ee7fcbd1a)
+
 ![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/85cde31a-7731-4f60-bbd0-ea359403266a)
-![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/67ed95ae-e345-4733-a034-fae1973e33da)
-![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/8b7d447b-d8b8-4fab-9e0d-0c378b02bed0)
-![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/e1b9e177-8bda-4b11-af85-2ee392b06511)
-![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/58a6560a-e9d3-420c-a20f-2017b191894c)
-![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/ae53bb29-eed1-4d64-987e-f0ca58fa41ae)
+
+![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/4f5e1a99-e8a4-4a0f-bbec-4b6b0e1a5d0d)
+
+![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/8808150a-767d-4a93-9e5f-e617bb1b84ef)
+
+![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/daec0869-f33c-43c8-a1ca-2481bb1b7b6f)
+
+![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/5b5c4a26-5f65-41a9-95c1-892f1c948245)
+
+![image](https://github.com/Gongpai/Ball_Easter/assets/31787868/2000bce9-bad7-4cdf-8ece-40da46bb0b95)
 
 ---
 **Unity version 2021.3.32f1**
